@@ -1,4 +1,4 @@
-<h4 align="left">I am Abhay Singh , a final year B.Tech CSE student at Sanskriti University, Mathura. finalist of Smart India Hackathon 2024. Passionate about coding, problem-solving, and building innovative software solutions.</h4>
+<h4 align="left">I am Abhay Singh , completed my B.tech (CSE) from Sanskriti University, Mathura. finalist of Smart India Hackathon 2024. Passionate about coding, problem-solving, and building innovative software solutions.</h4>
 
 ###
 
